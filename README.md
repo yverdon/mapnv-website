@@ -1,2 +1,2 @@
-# mapnv-website
-Landing page for MAPNV
+# geocity-website
+Presenting Geocity and its features
