@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="158.69641mm"
-   height="181.01108mm"
-   viewBox="0 0 158.69641 181.01108"
+   width="160.01657mm"
+   height="182.37318mm"
+   viewBox="0 0 160.01657 182.37319"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="admin_orbe.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="admin_orbe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <clipPath
@@ -37,6 +37,13 @@
          d="M 0,155.835 H 240.945 V 0 H 0 Z"
          id="path1446-1" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1448-7-8">
+      <path
+         d="M 0,155.835 H 240.945 V 0 H 0 Z"
+         id="path1446-1-8" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -46,17 +53,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="258.30557"
-     inkscape:cy="437.59643"
+     inkscape:cx="314.15744"
+     inkscape:cy="427.29452"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1294"
+     inkscape:window-height="1081"
+     inkscape:window-x="1011"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -65,7 +73,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,470 +80,527 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-23.817833,-60.769018)">
+     transform="translate(-9.0233133,-63.147738)">
     <g
        id="g1444"
-       clip-path="url(#clipPath1448-7)"
-       transform="matrix(1.3201598,0,0,-1.3201598,-3.3218803,254.33296)"
-       style="display:inline;opacity:1">
+       clip-path="url(#clipPath1448-7-8)"
+       transform="matrix(1.3201598,0,0,-1.3201598,-17.45632,257.37176)"
+       style="display:inline;stroke:#000000;stroke-opacity:1">
       <g
          id="g1450"
-         transform="translate(140.4189,146.6216)">
+         transform="translate(140.4189,146.6216)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c 0.07,-9.649 0.349,-44.872 0.349,-73.667 0,-14.394 -7.475,-28.047 -22.198,-40.593 -14.901,-12.69 -32.312,-19.985 -40.132,-22.853 -18.272,6.535 -57.88,25.155 -57.88,63.768 V 0 Z"
-           style="fill:#ec1c24;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ec1c24;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1452" />
       </g>
       <g
          id="g1454"
-         transform="translate(33.5557,87.5928)">
+         transform="translate(33.5557,87.5928)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C 4.308,4.983 5.839,11.654 8.216,17.72 5.118,27.87 -6.566,35.475 -7.395,46.077 c 0.52,0.545 1.142,0.725 1.864,0.632 1.342,-0.813 0.412,-3.713 2.583,-2.897 -0.413,-1.36 0.52,-4.527 2.689,-3.262 0,-0.362 -0.205,-0.545 -0.413,-0.726 0.827,-0.452 1.341,-1.721 2.584,-1.265 -0.207,-1.813 2.07,-2.264 3.413,-2.901 0.618,2.628 -2.07,4.892 -3.726,7.154 H 0.051 c 1.548,2.992 -3.099,1.089 -2.585,4.26 h -1.135 c 1.55,3.081 -5.273,4.891 -0.726,7.428 2.688,0.271 4.224,-2.416 6.307,-3.263 6.717,-3.533 14.024,-6.172 19.328,-12.316 3.826,-3.593 5.048,-8.424 11.581,-9.858 1.825,-0.456 4.857,-1.193 7.032,-0.29 -0.933,-3.893 -0.107,-8.876 2.27,-12.41 0.69,-3.456 -1.448,-9.238 1.138,-12.681 -3.408,-3.079 -1.447,-7.97 -0.411,-11.414 -4.655,-5.796 -9.72,-11.953 -8.17,-19.563 0.983,-4.939 3.202,-10.87 7.443,-15.309 -0.929,-1.722 -3.719,-1.996 -5.582,-1.36 -2.342,0.787 -4.15,1.766 -5.581,3.26 -0.416,-8.421 4.238,-15.761 8.893,-22.826 -6.308,0.184 -15.822,3.061 -17.059,7.517 -1.605,7.098 -7.754,1.997 -13.319,7.55 -1.242,1.45 -2.758,3.246 -1.982,4.863 6.617,-0.726 12.749,1.857 15.609,6.522 1.359,2.881 2.897,5.887 1.135,8.786 -2.528,-1.602 -5.788,-2.537 -8.58,-0.636 -1.1,0.77 -2.168,2.083 -2.168,3.533 3.413,-0.45 6.152,2.524 7.027,4.891 2.379,8.606 -3.614,15.854 -5.893,23.553 C 12.146,0.241 8.322,-1.028 4.185,-0.937 2.756,-0.907 0.982,-0.44 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1456" />
       </g>
       <g
          id="g1458"
-         transform="translate(111.7559,44.2617)">
+         transform="translate(111.7559,44.2617)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c -4.446,1.357 -7.544,4.801 -9.306,8.517 -0.928,1.632 -1.235,4.346 -0.305,5.886 1.655,-0.725 3.858,-1.115 5.581,-0.632 2.067,0.572 4.444,2.083 4.444,4.166 -14.058,4.801 -2.895,20.185 -1.43,25.997 1.291,5.209 2.239,-0.455 6.287,-1.54 2.931,-0.723 7.446,-0.723 9.304,1.628 -4.964,4.712 -5.58,10.872 -8.265,16.31 3.301,9.057 11.06,16.393 15.298,25.18 0.634,1.45 1.646,3.442 0,4.528 l -0.724,-0.632 c -1.558,-1.631 -1.856,-5.255 -4.45,-4.89 -1.346,-2.266 -2.788,-4.441 -5.269,-6.253 l -0.729,0.724 c -0.403,2.628 2.487,4.709 4.865,5.797 -0.928,2.083 1.86,1.902 2.999,2.357 l -0.827,1.902 2.997,0.995 -0.728,1.632 c 0.414,0.545 1.241,0.27 1.866,0.363 v 0.632 c -2.282,1.18 1.664,6.674 -2.282,4.529 C 13.745,94.205 9.065,90.133 2.583,88.051 -8.164,84.335 -11.683,70.202 -25.328,71.745 c 0.932,-4.169 0.727,-9.51 -2.584,-13.045 l 1.553,-3.896 c 0.615,-3.171 0.515,-6.885 -2.687,-9.149 3.718,-3.077 1.031,-7.791 -0.312,-11.051 3.927,-2.896 6.905,-6.957 7.836,-9.997 2.432,-7 -0.082,-18.265 -6.39,-24.876 0.333,-0.424 0.708,-0.863 1.553,-1 3.414,-0.544 6.047,0.819 8.165,2.901 -0.518,-7.788 -2.687,-15.765 -8.165,-22.107 4.963,-0.361 9.923,1.362 13.748,4.537 2.635,2.201 3.413,7.783 9.305,6.882 2.893,0 9.522,4.455 9.303,8.787 C 3.983,-0.528 1.446,-0.301 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1460" />
       </g>
       <g
          id="g1462"
-         transform="translate(29.8862,140.8257)">
+         transform="translate(29.8862,140.8257)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c 4.447,-3.441 9.989,-5.753 15.384,-8.168 6.72,-3.774 14.8,-12.304 18.517,-19.915 -0.619,-0.087 -1.133,-0.18 -1.549,-0.631 l -1.033,1.628 c -0.93,-0.903 -0.208,-2.353 1.033,-2.628 l 1.861,1 c 0.83,-1.18 1.965,-2.989 -0.312,-3.896 -0.513,0.544 -0.513,1.539 -1.549,1.627 -1.033,-0.994 0.416,-1.902 1.143,-2.626 0.718,0.091 1.234,0.906 1.853,1.361 l 2.586,-11.413 -1.443,-1.994 c -0.932,0.544 0.308,1.9 -1.143,2.264 -1.547,-0.544 0.109,-2.353 -1.853,-2.628 -1.35,-0.088 -0.213,1.813 -1.863,1.359 -0.621,-0.722 0.513,-2.083 1.55,-2.264 1.24,-0.271 1.861,1.813 2.896,0.274 l 2.271,0.995 c 4.548,-16.305 -4.961,-29.621 -4.854,-44.656 3.408,0.996 0.718,5.343 2.583,7.518 0.513,0.632 0.621,1.445 0.825,2.265 1.861,-5.074 3.307,-10.782 7.442,-15.309 -1.342,-1.451 -3.927,-0.272 -5.581,0.271 -1.689,0.542 -3.394,2.7 -4.551,4.256 -0.635,0.802 -1.085,-1.177 -1.085,-2.006 0.415,-8.33 3.276,-14.947 7.497,-22.086 -5.688,0.99 -13.611,3.368 -14.161,9.418 -0.106,0.454 0.617,0.725 0.307,1.265 -5.7,0.154 -12.42,1.813 -14.473,6.255 6.1,0.905 13.13,2.627 15.609,8.422 0.621,-0.18 1.241,-1.811 2.593,-1.268 0.302,0.362 0.924,0.457 0.819,0.999 -1.445,-0.637 -1.706,0.723 -2.842,1.446 1.756,3.263 1.291,7.885 -0.57,10.963 -0.513,-1.994 -2.269,-3.534 -4.439,-4.259 -2.315,-0.589 -4.141,0.813 -4.446,2.628 2.996,0.999 5.324,3.351 6.302,6.522 1.963,9.42 -4.546,15.854 -5.997,24.096 -0.41,0.906 2.691,2.265 0,2.265 -1.133,-2.357 -2.822,-4.32 -6.013,-5.753 -2.928,-1.057 -5.148,-0.951 -8.045,-0.407 4.654,5.345 4.344,12.501 8.892,17.936 -3.72,5.886 -7.996,11.681 -13.025,17.936 -2.121,2.88 -3.016,5.676 -3.841,8.842 2.066,-5.342 8.01,-8.604 13.146,-12.467 0.31,-1.72 -0.62,-2.63 0.722,-3.897 1.342,-0.181 2.586,0.181 2.998,1.267 l -0.412,0.365 -1.451,-0.996 c -2.375,0.631 -0.307,2.628 -0.412,3.896 -0.119,1.265 -0.415,3.578 -1.859,5.254 L -0.726,-1.632 C -1.499,-0.847 -0.659,0.465 0,0"
-           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1464" />
       </g>
       <g
          id="g1466"
-         transform="translate(118.0659,115.7339)">
+         transform="translate(118.0659,115.7339)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c -0.73,-1.271 -1.969,0.994 -2.171,-0.633 0.414,-1.088 1.994,-1.242 2.584,-0.725 1.342,1.539 0.827,3.802 1.442,5.617 6.098,2.262 10.197,7.455 12.719,12.32 C 12.718,7.154 1.755,-0.363 -1.039,-10.147 c -0.203,0.184 -0.416,0.452 -0.828,0.365 -1.03,-1.633 1.516,-3.187 2.28,-5.256 1.224,-3.366 2.766,-8.272 6.307,-12.412 -2.28,-1.538 -5.518,-1.747 -8.587,-0.268 -2.789,1.45 -3.41,4.709 -6.306,5.885 0.315,-8.968 -6.439,-16.271 -5.61,-25.786 0.305,-2.217 3.755,-5.823 6.026,-7.185 -1.345,-1.903 -4.239,-2.898 -6.717,-1.99 -3.927,1.263 -0.105,4.166 -0.729,6.517 -1.548,0.727 -1.96,-1.356 -2.271,-2.262 -1.031,-7.519 0.623,-15.763 8.582,-19.566 2.276,-1.181 4.579,-1.028 7.025,-0.636 -0.517,-3.711 -4.511,-5.596 -7.783,-6.659 -2.154,-0.524 -5.515,1.288 -5.966,-0.854 -1.035,-3.988 -5.149,-7.826 -8.678,-9.413 -2.154,-0.83 -3.966,-1.353 -6.204,-1.369 11.062,13.408 7.318,34.961 4.133,48.915 -0.777,3.412 -1.117,5.675 -1.136,9.147 l 1.136,0.634 c -0.72,0.725 -0.826,1.631 -0.72,2.627 1.03,0.635 2.684,1.179 2.581,2.627 l -0.414,0.362 c -0.927,-0.362 -0.41,-1.449 -1.447,-1.359 -0.929,0.453 -0.72,1.27 -0.72,1.996 l 2.581,1.265 c 0.21,-0.814 -0.518,-1.902 0.723,-2.264 0.83,-0.271 1.241,0.362 1.861,0.635 0.31,1.629 -0.826,0 -1.447,0.997 0.206,0.543 0.927,0.906 0.727,1.631 -1.141,-0.275 -2.278,1.269 -3.415,-0.636 -0.103,0.636 -1.343,1.269 -0.31,1.905 l 2.584,1.627 c 0.414,-0.545 0.414,-1.54 1.448,-1.627 0.516,0.087 1.242,-0.184 1.55,0.358 0.105,0.363 -0.208,0.456 -0.414,0.637 h -1.136 l 0.413,1.991 c -1.655,0.817 -2.067,-0.634 -3.72,-1.359 1.035,1.54 -1.967,1.996 -0.415,3.263 2.588,-0.635 4.135,2.897 5.585,-0.274 0.516,0.364 1.135,0.364 1.549,1 l -1.862,0.27 c -0.619,0.815 1.139,1.357 0,1.996 -1.657,0.993 -4.239,-4.715 -4.445,-0.366 v 1.359 c 2.482,-1.449 3.516,2.627 5.584,0.271 0.932,0.274 1.551,1.179 1.858,1.993 l -0.412,0.274 c -0.622,-0.274 -0.93,-1.269 -1.862,-0.905 -0.518,0.813 0.932,1.538 0,2.264 -1.757,-0.82 -1.86,-3.083 -4.134,-2.99 1.554,1.539 -1.549,2.264 0,3.622 0.827,-0.087 1.243,-0.997 2.274,-0.632 0.418,0.632 1.757,0.995 1.45,1.901 l -0.313,0.363 -1.55,-1.269 c -1.548,0.632 -0.107,2.176 -0.307,3.26 0.928,0 1.549,-0.634 2.58,-0.364 -0.204,-1.176 0.212,-2.264 1.452,-2.627 0.615,0.363 1.445,0.544 1.55,1.362 l -1.863,0.271 c -0.619,1.358 1.758,1.993 0,2.989 -0.927,0 -1.139,-1.359 -2.276,-0.996 -0.1,0.906 -1.343,1.721 -0.305,2.626 2.167,0.908 3.716,-2.626 5.581,-0.36 l -1.553,0.36 c 0.104,0.908 1.343,2.083 0.723,2.898 l -2.893,-1.99 c 0.932,5.161 6.203,9.6 11.167,13.767 4.419,3.532 12.437,5.57 21.909,12.318 C 12.406,15.67 -2.171,10.688 0,0"
-           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1468" />
       </g>
       <g
          id="g1470"
-         transform="translate(127.0566,135.2969)">
+         transform="translate(127.0566,135.2969)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 2.585,2.901 1.603,0.983 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1472" />
       </g>
       <g
          id="g1474"
-         transform="translate(34.3335,135.5703)">
+         transform="translate(34.3335,135.5703)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 -1.45,1.995 0,0.726 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1476" />
       </g>
       <g
          id="g1478"
-         transform="translate(117.3359,127.4165)">
+         transform="translate(117.3359,127.4165)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c -0.219,-1.253 -0.653,-2.913 -1.854,-3.259 -1.474,-0.258 -3.005,0.726 -3.005,1.994 -0.099,1.22 0.725,2.717 1.862,3.26 C -1.423,2.445 -0.136,1.242 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1480" />
       </g>
       <g
          id="g1482"
-         transform="translate(42.7725,126.5415)">
+         transform="translate(42.7725,126.5415)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C 0.428,1.131 3.552,1.149 3.858,-0.39 4.48,-0.12 4.223,0.83 3.53,1.513 L 2.724,2.238 C 3.653,2.506 4.223,1.963 4.585,1.239 5.255,0.301 4.272,-1.571 2.724,-2.022 1.691,-2.203 0.759,-1.752 0.139,-1.027 -0.172,-0.753 -0.087,-0.45 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1484" />
       </g>
       <g
          id="g1486"
-         transform="translate(116.1987,127.4165)">
+         transform="translate(116.1987,127.4165)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c 0.413,-0.902 -0.517,-1.357 -1.03,-1.902 0,0.545 0.726,0.907 1.03,1.271 L -1.03,0.726 C -0.517,0.818 -0.304,0.274 0,0"
-           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1488" />
       </g>
       <g
          id="g1490"
-         transform="translate(94.9482,117.0693)">
+         transform="translate(94.9482,117.0693)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -1.505,2.475 -0.661,5.121 1.042,7.341 0.188,5.379 -0.091,1.366 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1492" />
       </g>
       <g
          id="g1494"
-         transform="translate(40.3276,121.8931)">
+         transform="translate(40.3276,121.8931)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.415,0.362 -1.243,0.907 -0.415,1.357 0.31,1.088 -0.104,0.452 0,0"
-           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1496" />
       </g>
       <g
          id="g1498"
-         transform="translate(121.0625,122.8882)">
+         transform="translate(121.0625,122.8882)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.108,-0.452 0.305,-1.087 -0.312,-1.269 V 0 Z"
-           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1500" />
       </g>
       <g
          id="g1502"
-         transform="translate(52.9385,114.3755)">
+         transform="translate(52.9385,114.3755)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 H -0.729 C 1.964,1.809 1.444,5.161 1.549,7.518 2.171,4.979 2.171,1.902 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1504" />
       </g>
       <g
          id="g1506"
-         transform="translate(90.1523,71.7109)">
+         transform="translate(90.1523,71.7109)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -3.103,15.67 0.207,31.521 6.717,45.017 4.132,43.66 1.034,43.281 -2.172,43.028 c -0.207,-3.717 0.83,-8.787 -2.584,-11.777 1.344,-3.626 2.272,-9.424 -0.826,-12.682 2.27,-3.44 0.621,-7.793 0,-11.415 C -3.619,5.688 -1.379,2.688 0,0"
-           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1508" />
       </g>
       <g
          id="g1510"
-         transform="translate(109.5889,116.7275)">
+         transform="translate(109.5889,116.7275)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.93,-1.538 -0.226,-2.714 1.027,-3.985 2.27,-4.906 3.72,-4.98 5.166,-5.616 2.531,-5.584 0.462,-5.132 -0.83,-7.699 c -0.256,-0.45 -0.721,-0.813 -0.721,-1.176 0,1.99 3.305,4.984 -0.312,6.886 C -1.76,-1.176 -1.343,0.094 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1512" />
       </g>
       <g
          id="g1514"
-         transform="translate(71.5469,114.3755)">
+         transform="translate(71.5469,114.3755)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c -1.45,-6.616 5.993,-11.325 2.274,-18.21 3.306,-4.891 -1.655,-8.332 0,-13.405 1.949,-4.379 -3.828,-7.927 -5.171,-12.047 3.723,12.318 0.931,25.814 -1.86,38.136 l -2.69,7.157 C -4.825,0.846 -2.328,0.21 0,0"
-           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1516" />
       </g>
       <g
          id="g1518"
-         transform="translate(51.0757,115.3706)">
+         transform="translate(51.0757,115.3706)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c -0.107,-1.086 -0.206,-2.263 -0.721,-3.259 -1.24,-1.45 -2.894,-2.176 -4.859,-2.269 1.655,1.179 4.446,1.362 4.859,3.626 V 0 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1520" />
       </g>
       <g
          id="g1522"
-         transform="translate(60.0698,110.2065)">
+         transform="translate(60.0698,110.2065)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -1.343,-0.452 -1.551,0.636 -1.864,1.269 V 2.901 C -1.656,1.725 -1.036,-0.181 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1524" />
       </g>
       <g
          id="g1526"
-         transform="translate(51.9043,108.8491)">
+         transform="translate(51.9043,108.8491)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 -1.134,2.263 0,0.634 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1528" />
       </g>
       <g
          id="g1530"
-         transform="translate(60.79,106.5835)">
+         transform="translate(60.79,106.5835)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C 1.241,0.274 -0.82,-0.632 -1.444,-0.362 V 0.633 C -1.03,0.364 -0.619,-0.271 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1532" />
       </g>
       <g
          id="g1534"
-         transform="translate(54.0713,104.3193)">
+         transform="translate(54.0713,104.3193)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.925,0.181 -1.237,1.719 -1.133,2.264 -0.717,1.539 0,0.907 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1536" />
       </g>
       <g
          id="g1538"
-         transform="translate(105.4487,102.0552)">
+         transform="translate(105.4487,102.0552)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 1.14,3.896 V 2.264 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1540" />
       </g>
       <g
          id="g1542"
-         transform="translate(65.6499,104.5933)">
+         transform="translate(65.6499,104.5933)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c 0.108,-0.638 -0.102,-1.179 -0.72,-1.631 -1.549,1.357 -4.446,-2.539 -4.544,0.726 0.303,-0.726 2.475,-1.726 2.682,0 v 1.899 l 1.862,-1.899 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1544" />
       </g>
       <g
          id="g1546"
-         transform="translate(42.6001,98.7959)">
+         transform="translate(42.6001,98.7959)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 1.447,4.166 v -1.9 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1548" />
       </g>
       <g
          id="g1550"
-         transform="translate(117.7529,99.4277)">
+         transform="translate(117.7529,99.4277)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -1.341,0.814 -1.656,1.902 -1.554,3.261 -1.241,2.084 -0.103,1.178 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1552" />
       </g>
       <g
          id="g1554"
-         transform="translate(55.627,99.6973)">
+         transform="translate(55.627,99.6973)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -1.04,0.365 -1.14,1.632 -1.14,2.629 -0.93,2.084 -0.313,0.908 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1556" />
       </g>
       <g
          id="g1558"
-         transform="translate(43.3247,96.1655)">
+         transform="translate(43.3247,96.1655)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 2.171,5.164 H 2.585 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1560" />
       </g>
       <g
          id="g1562"
-         transform="translate(65.2339,99.4277)">
+         transform="translate(65.2339,99.4277)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 1.143,0.995 C 1.556,0.183 0.416,-0.091 0,-0.632 -1.031,-0.455 -2.166,0.814 -1.134,1.634 -0.411,1.178 -0.925,0.27 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1564" />
       </g>
       <g
          id="g1566"
-         transform="translate(116.6113,97.4346)">
+         transform="translate(116.6113,97.4346)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -1.03,1.088 -1.96,2.538 -1.857,3.627 -1.13,2.807 -0.2,1.361 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1568" />
       </g>
       <g
          id="g1570"
-         transform="translate(61.9312,98.4297)">
+         transform="translate(61.9312,98.4297)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 1.137,0.366 0,-0.633 C -1.347,-0.451 -1.545,0.998 -1.141,1.632 -0.519,1.181 -0.934,0.366 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1572" />
       </g>
       <g
          id="g1574"
-         transform="translate(44.4634,94.5371)">
+         transform="translate(44.4634,94.5371)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C 0.306,0.27 0.411,4.078 2.581,4.528 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1576" />
       </g>
       <g
          id="g1578"
-         transform="translate(116.1987,94.5371)">
+         transform="translate(116.1987,94.5371)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -1.242,0.181 -2.89,2.628 -2.583,3.893 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1580" />
       </g>
       <g
          id="g1582"
-         transform="translate(57.0698,94.8066)">
+         transform="translate(57.0698,94.8066)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.511,0.726 -2.068,1.902 -1.131,2.99 -0.72,1.996 -0.413,1 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1584" />
       </g>
       <g
          id="g1586"
-         transform="translate(45.4961,93.5376)">
+         transform="translate(45.4961,93.5376)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 1.861,3.265 1.548,1.995 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1588" />
       </g>
       <g
          id="g1590"
-         transform="translate(113.8462,92.1978)">
+         transform="translate(113.8462,92.1978)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 -2.09,3.608 2.271,-2.9 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1592" />
       </g>
       <g
          id="g1594"
-         transform="translate(58.2056,89.9165)">
+         transform="translate(58.2056,89.9165)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 -0.717,2.99 C -0.188,2.281 0.313,0.814 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1596" />
       </g>
       <g
          id="g1598"
-         transform="translate(101.0078,88.0156)">
+         transform="translate(101.0078,88.0156)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.416,1.356 0.514,3.082 1.137,4.528 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1600" />
       </g>
       <g
          id="g1602"
-         transform="translate(103.1587,94.9604)">
+         transform="translate(103.1587,94.9604)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.414,1.357 0.519,3.078 1.14,4.529 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1604" />
       </g>
       <g
          id="g1606"
-         transform="translate(66.7896,90.2798)">
+         transform="translate(66.7896,90.2798)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 0.723,0.632 0,-0.633 c -1.031,2.628 -4.033,-1.18 -4.551,1.902 l 0.416,0.362 C -3.721,1.176 -3.721,0.632 -3.002,0.362 -2.378,0.906 -1.556,1.631 -1.14,1.995 -0.413,1.45 -1.14,0.362 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1608" />
       </g>
       <g
          id="g1610"
-         transform="translate(60.0698,84.7568)">
+         transform="translate(60.0698,84.7568)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 h -0.724 l -0.41,2.894 C -0.31,2.443 -0.724,0.901 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1612" />
       </g>
       <g
          id="g1614"
-         transform="translate(66.7896,86.021)">
+         transform="translate(66.7896,86.021)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 H 0.723 C 0.93,-0.452 0.206,-0.631 0,-0.997 L -1.86,0.364 C -2.174,-0.271 -2.897,0.093 -3.408,0 -3.825,0.18 -3.721,0.635 -3.721,0.998 -3.31,-0.271 -0.931,0.454 -0.826,1.63 -1.031,0.906 -0.313,0.543 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1616" />
       </g>
       <g
          id="g1618"
-         transform="translate(95.0107,85.3896)">
+         transform="translate(95.0107,85.3896)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 c -0.312,-0.545 -1.033,-0.275 -1.449,-0.365 -0.824,0.726 0,1.631 0.31,2.357 C -0.62,1.992 -1.967,-0.457 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1620" />
       </g>
       <g
          id="g1622"
-         transform="translate(99.1445,80.4966)">
+         transform="translate(99.1445,80.4966)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.1,1.269 -0.314,3.623 0.723,4.893 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1624" />
       </g>
       <g
          id="g1626"
-         transform="translate(65.9639,81.4917)">
+         transform="translate(65.9639,81.4917)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 V 1.902 L 1.137,0 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1628" />
       </g>
       <g
          id="g1630"
-         transform="translate(64.9297,82.126)">
+         transform="translate(64.9297,82.126)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 -0.672,-0.589 -1.813,0.772 C -1.037,0.634 -1.037,-0.453 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1632" />
       </g>
       <g
          id="g1634"
-         transform="translate(97.5962,72.9785)">
+         transform="translate(97.5962,72.9785)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.108,2.173 0.206,4.073 1.134,5.887 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1636" />
       </g>
       <path
          d="m 61.206,74.339 h 0.313 v -2.36 h -0.313 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
          id="path1638" />
       <g
          id="g1640"
-         transform="translate(102.1445,66.457)">
+         transform="translate(102.1445,66.457)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 0.306,1.628 V 0.362 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1642" />
       </g>
       <g
          id="g1644"
-         transform="translate(57.793,64.1914)">
+         transform="translate(57.793,64.1914)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.826,0.997 -1.549,2.353 -0.723,3.623 -0.413,2.353 0.313,1.358 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1646" />
       </g>
       <g
          id="g1648"
-         transform="translate(91.2876,45.2598)">
+         transform="translate(91.2876,45.2598)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -1.343,-0.998 -3.62,-1.267 -5.167,-0.998 -1.036,4.8 0.516,11.685 0.723,18.932 2.69,13.497 5.276,4.893 0,0"
-           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1650" />
       </g>
       <g
          id="g1652"
-         transform="translate(100.2803,48.8828)">
+         transform="translate(100.2803,48.8828)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -0.72,-0.906 -3.617,-1.271 -3.411,0.27 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1654" />
       </g>
       <g
          id="g1656"
-         transform="translate(51.9043,41.7275)">
+         transform="translate(51.9043,41.7275)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 5.889,6.793 2.167,1.901 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1658" />
       </g>
       <g
          id="g1660"
-         transform="translate(62.2383,36.4707)">
+         transform="translate(62.2383,36.4707)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C 0.312,-0.631 -1.341,1.812 -1.448,2.899 L -2.584,9.423 C -4.651,7.791 -4.133,4.35 -3.72,1.997 -3.824,2.176 -5.065,7.61 -4.033,9.785 l -4.446,-5.523 4.446,6.519 c 0.416,0.708 2.18,-0.633 2.18,0.635 C -2.269,7.884 -1.136,3.625 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1662" />
       </g>
       <g
          id="g1664"
-         transform="translate(104.0059,41.9971)">
+         transform="translate(104.0059,41.9971)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 C -1.036,0 -2.998,1.358 -2.998,2.991 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1666" />
       </g>
       <g
          id="g1668"
-         transform="translate(102.1445,38.1055)">
+         transform="translate(102.1445,38.1055)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="m 0,0 -2.687,6.156 h 0.823 z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1670" />
       </g>
       <g
          id="g1672"
-         transform="translate(98.0063,33.8438)">
+         transform="translate(98.0063,33.8438)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 V 9.512 L 0.724,8.786 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1674" />
       </g>
       <g
          id="g1676"
-         transform="translate(94.6992,32.8535)">
+         transform="translate(94.6992,32.8535)"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            d="M 0,0 2.17,10.14 V 6.517 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1"
            id="path1678" />
       </g>
     </g>
