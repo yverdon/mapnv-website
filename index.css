@@ -126,7 +126,7 @@ h3 {
 
 #partners-logos img {
     margin: 20px 20px 20px 20px;
-    max-width: 250px;
+    max-width: 50px;
     height: auto;
 }
 
@@ -239,14 +239,14 @@ footer {
     }
 
     .features-text {
+        text-align: left;
         width: var(--items-width);
         margin: 0;
-
     }
 
     #partners-logos img {
         margin: 10px 10px 10px 10px;
-        max-width: 200px;
+        max-width: 20px;
     }
 
     .arrow {
