@@ -169,12 +169,10 @@ footer {
         background-size: 500px, 100%;
     }
 
-    #intro h1 {
+    h1 {
         font-size: 4em;
     }
-
-    #intro h2 {
-
+    h2 {
         font-size: 2em;
     }
 
@@ -218,22 +216,19 @@ footer {
     }
 
     #intro {
-        height: 400px;
-        background-color: #008c6f;
-        background-image: url(static/images/login_geocity.svg), linear-gradient(45deg, #008c6f, #a3d2c8);
-        background-repeat: no-repeat;
-        background-position-x: 90%, 100%;
-        background-position-y: 25px, 0;
+        height: 300px;
+        background-position-x: 20px, 100%;
+        background-position-y: 200px, 0; 
         background-size: 300px, 100%;
         color: white;
         text-align: left;
     }
 
     #intro-text {
-        padding-top: 175px;
+        padding-top: 20px;
         text-align: left;
         max-width: 300px;
-        margin-left: var(--margin-left);
+        margin-left: 20px;
     }
 
     .content-block {
